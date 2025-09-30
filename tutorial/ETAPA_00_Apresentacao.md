@@ -2,17 +2,16 @@
 
 ### Sobre Mim
 <p align="center">
-  <img src="../assets/logo.jpg" alt="Mateus Falco" width="200"/>
+  <img src="../assets/logo.jpg" alt="Paraná Faz Ciência" width="400"/>
 </p>
 <p align="center">
-  Olá! Meu nome é Mateus Falco. Sou um entusiasta da bioinformática e este Curso foi criado para guiar você pelos primeiros e mais importantes passos da análise de dados genômicos.
+  <br>Bem-vindo(a)</br> a este curso prático de bioinformática, uma área que está revolucionando a ciência. Na era do "big data" genômico, a quantidade de dados gerados por sequenciadores é imensa, mas esses dados brutos são apenas o ponto de partida, repletos de ruídos e imprecisões. Este minicurso foi desenhado para fornecer a habilidade mais fundamental e indispensável para qualquer bioinformata: a capacidade de transformar dados brutos em uma base de informação limpa e confiável. Dominar o controle de qualidade e a limpeza de sequências não é apenas um exercício técnico; é o que destrava o potencial para realizar análises de ponta, da identificação de variantes em doenças ao estudo de ecossistemas complexos através da metagenômica. Ao concluir estas etapas, você estará dando o passo mais importante para converter dados em descobertas científicas.
 </p>
 
 ---
 
 ### Objetivo do Curso
 
-<br>Bem-vindo(a)!</br>
 O objetivo deste curso prático é ensinar o fluxo de trabalho essencial de **Controle de Qualidade (QC)** e **Limpeza (Trimming)** de dados brutos de sequenciamento (NGS). Ao final, você saberá como avaliar a qualidade de seus dados e como prepará-los para análises mais complexas, como o alinhamento.
 
 ### Ambiente e Dados
