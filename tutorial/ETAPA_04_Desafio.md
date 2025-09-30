@@ -53,3 +53,6 @@ Você terá concluído o desafio com sucesso quando os relatórios do FastQC dos
   # 3. Verificando o resultado
   fastqc data/trimmed_desafio/SRR7694205_1P.fastq.gz data/trimmed_desafio/SRR7694205_2P.fastq.gz -o results/fastqc_trimmed_desafio
 ```
+**Fim do Minicurso!**
+
+<br>Parabéns!</br> Você completou o fluxo de trabalho essencial de controle de qualidade e limpeza de dados NGS. Seus dados agora estão prontos para análises mais avançadas.
