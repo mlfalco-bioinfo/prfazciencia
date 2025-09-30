@@ -1,34 +1,40 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="Logotipo Paraná Faz Ciência" width="800"/>
+  <img src="assets/logo.jpg" alt="Logotipo do Minicurso" width="800"/>
 </p>
 
-<h1 align="center">Introdução à Bioinformática</h1>
-<br>Bem-vindo(a) ao nosso minicurso!</br> 
-O objetivo é fornecer uma introdução prática à análise de dados de Sequenciamento de Nova Geração (NGS).
-O curso foi desenhado para iniciantes e começa com uma base sólida sobre o uso do terminal Linux antes de mergulhar na bioinformática.
+<h1 align="center">Introdução Bioinformática</h1>
 
-<h2 align="center">Como Começar</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Ubuntu-orange?logo=ubuntu" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode" alt="VSCode">
+  <img src="https://img.shields.io/badge/Tool-FastQC-red" alt="FastQC">
+  <img src="https://img.shields.io/badge/Tool-Trimmomatic-green" alt="Trimmomatic">
+  <img src="https://img.shields.io/badge/Data-NCBI SRA-blue?logo=ncbi" alt="NCBI">
+</p>
 
-1.  Clique no botão verde **"<> Code"** no topo desta página.
-2.  Vá para a aba **"Codespaces"**.
-3.  Clique em **"Create codespace on main"**.
+<p align="center">
+  Aprenda o fluxo de trabalho essencial para controle de qualidade (QC) e limpeza (trimming) de dados brutos de sequenciamento de nova geração (NGS).
+</p>
 
-Aguarde alguns minutos enquanto o GitHub Codespace prepara seu ambiente.
-Ele fornecerá um sistema Linux Ubuntu limpo, pronto para você aprender a configurar e usar.
+---
 
-Podemos usar o botão abaixo para abrir nosso Github Codespace:
+### Como Começar com o GitHub Codespaces
+
+Este curso foi desenhado para rodar em um ambiente de desenvolvimento na nuvem, eliminando qualquer necessidade de instalação na sua máquina.
 
 [![Abrir no GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/mlfalco-bioinfo/prfazciencia)
 
+1.  **Clique no botão acima** para iniciar o ambiente.
+2.  Aguarde alguns minutos enquanto o GitHub prepara sua máquina virtual.
+3.  Quando o ambiente carregar, você verá uma interface do VS Code. O terminal estará na parte inferior.
+4.  Todos os dadose ferramentas necessários já estarão prontos para uso!
 
-<h2 align="center">Conteúdo do Curso</h2>
+### Estrutura do Minicurso
 
-O curso é dividido em módulos sequenciais. **Se você é novo no Linux, comece pela Aula 0**
+O curso é dividido em etapas sequenciais e práticas.
 
-* [**Aula 0: Introdução ao Terminal Linux**](./tutorial/00_Introducao_ao_Terminal.md)
-* [**Aula 1: Apresentação do Curso de Bioinformática**](./tutorial/01_Apresentacao_do_Curso.md)
-* [**Aula 2: Instalação das Ferramentas no Sistema**](./tutorial/02_Instalacao_das_Ferramentas.md)
-* [**Aula 3: Obtendo os Dados Brutos e o Genoma de Referência**](./tutorial/03_Obtendo_os_Dados.md)
-* [**Aula 4: Controle de Qualidade Inicial com FastQC**](./tutorial/04_Controle_de_Qualidade_Inicial.md)
-* [**Aula 5: Limpeza e Filtragem dos Reads com Trimmomatic**](./tutorial/05_Limpeza_e_Filtragem_dos_Reads.md)
-<!--* [**Aula 6: Alinhamento com o Genoma usando BWA-MEM2**](./tutorial/06_Alinhamento_com_o_Genoma.md)-->
+* [**Etapa 0: Apresentação**](./tutorial/ETAPA_00_Apresentacao.md)
+* [**Etapa 1: Introdução ao Terminal Linux**](./tutorial/ETAPA_01_Introducao_ao_Terminal.md)
+* [**Etapa 2: Controle de Qualidade com FastQC**](./tutorial/ETAPA_02_Controle_de_Qualidade_com_FastQC.md)
+* [**Etapa 3: Limpeza de Dados com Trimmomatic**](./tutorial/ETAPA_03_Limpeza_de_Dados_com_Trimmomatic.md)
+* [**Etapa 4: Sobre o Cruso**](./tutorial/ETAPA_04_Sobre_o_Curso.md)

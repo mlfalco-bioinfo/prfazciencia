@@ -1,12 +1,11 @@
 {
-  "name": "Minicurso de Bioinformática - Instalação Direta",
+  "name": "Minicurso de Bioinformática - QC",
   "build": {
     "dockerfile": "Dockerfile"
   },
   "customizations": {
     "vscode": {
       "extensions": [
-        "ms-vscode.live-server",
         "yzhang.markdown-all-in-one"
       ]
     }
