@@ -37,4 +37,5 @@ O curso é dividido em etapas sequenciais e práticas.
 * [**Etapa 1: Introdução ao Terminal Linux**](./tutorial/ETAPA_01_Introducao_ao_Terminal.md)
 * [**Etapa 2: Controle de Qualidade com FastQC**](./tutorial/ETAPA_02_Controle_de_Qualidade_com_FastQC.md)
 * [**Etapa 3: Limpeza de Dados com Trimmomatic**](./tutorial/ETAPA_03_Limpeza_de_Dados_com_Trimmomatic.md)
-* [**Etapa 4: Sobre o Cruso**](./tutorial/ETAPA_04_Sobre_o_Curso.md)
+* [**Etapa 4: Desafio**](./tutorial/ETAPA_04_Desafio.md)
+* [**Etapa 5: Sobre o Cruso**](./tutorial/ETAPA_05_Sobre_o_Curso.md)
