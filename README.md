@@ -2,8 +2,9 @@
   <img src="assets/logo.jpg" alt="Logotipo Paraná Faz Ciência" width="800"/>
 </p>
 
+<p align="center">
 # Introdução à Bioinformática
-
+</p>
 Bem-vindo ao nosso minicurso! 
 O objetivo é fornecer uma introdução prática à análise de dados de Sequenciamento de Nova Geração (NGS). 
 O curso foi desenhado para iniciantes e começa com uma base sólida sobre o uso do terminal Linux antes de mergulhar na bioinformática.
