@@ -58,4 +58,4 @@ Abra os novos relatórios e compare com os antigos. Você notará uma melhora si
 
 
 
-### [➡️ Vá para o Desafio do Curso!](./04_Desafio.md)
+### [➡️ Vá para o Desafio do Curso!](./ETAPA_04_Desafio.md)
