@@ -10,6 +10,19 @@
 
 ---
 
+### Formulário Inicial (Pré-Curso)
+
+<p align="center">
+  Antes de começarmos, por favor, reserve um minuto para preencher nosso formulário inicial. Sua resposta nos ajuda a entender melhor o perfil dos participantes.
+</p>
+<p align="center">
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSeGffGgdVbVRd876MKeYRqC77XG52nA-DspV3xZi1jHB2wR-Q/viewform?usp=dialog" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar-Formulário_Pré_Curso-blue?style=for-the-badge&logo=googleforms" alt="Formulário Pré-Curso">
+  </a>
+</p>
+
+---
+
 ### Objetivo do Curso
 
 O objetivo deste curso prático é ensinar o fluxo de trabalho essencial de **Controle de Qualidade (QC)** e **Limpeza (Trimming)** de dados brutos de sequenciamento (NGS). Ao final, você saberá como avaliar a qualidade de seus dados e como prepará-los para análises mais complexas, como o alinhamento.

@@ -56,6 +56,17 @@ fastqc data/trimmed_reads/SRR28199596_1P.fastq.gz data/trimmed_reads/SRR28199596
 
 Abra os novos relatórios e compare com os antigos. Você notará uma melhora significativa na qualidade das bases, especialmente no final das leituras.
 
+---
+<p align="center">
+Parabéns por chegar até aqui! Antes de ir para o desafio final, por favor, compartilhe sua opinião sobre o curso preenchendo nosso formulário de conclusão.
+</p>
+<p align="center">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSf05aAZqnlwM_Y5EeygmKQNhagqes1Ov4xZ_kVAJ8nzSOsgJA/viewform?usp=dialog" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Acessar-Formul%C3%A1rio_P%C3%B3s_Curso-green%3Fstyle%3Dfor-the-badge%26logo%3Dgoogleforms" alt="Formulário Pós-Curso">
+</a>
+</p>
+
+---
 
 
 ### [➡️ Vá para o Desafio do Curso!](./ETAPA_04_Desafio.md)
