@@ -1,4 +1,8 @@
-# Introdução à Bioinformática - Paraná Faz Ciência
+<p align="center">
+  <img src="assets/logo.jpg" alt="Logotipo Paraná Faz Ciência" width="200"/>
+</p>
+
+# Introdução à Bioinformática
 
 Bem-vindo ao nosso minicurso! 
 O objetivo é fornecer uma introdução prática à análise de dados de Sequenciamento de Nova Geração (NGS). 
@@ -12,6 +16,11 @@ O curso foi desenhado para iniciantes e começa com uma base sólida sobre o uso
 
 Aguarde alguns minutos enquanto o GitHub Codespace prepara seu ambiente. 
 Ele fornecerá um sistema Linux Ubuntu limpo, pronto para você aprender a configurar e usar.
+
+Podemos também usar o botão abaixo que abrirá nosso Github Codespace:
+
+[![Abrir no GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/mlfalco-bioinfo/prfazciencia)
+
 
 ## Conteúdo do Curso
 
