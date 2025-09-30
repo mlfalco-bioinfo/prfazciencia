@@ -56,8 +56,6 @@ fastqc data/trimmed_reads/SRR28199596_1P.fastq.gz data/trimmed_reads/SRR28199596
 
 Abra os novos relatórios e compare com os antigos. Você notará uma melhora significativa na qualidade das bases, especialmente no final das leituras.
 
-**Fim do Minicurso!**
 
-Parabéns! Você completou o fluxo de trabalho essencial de controle de qualidade e limpeza de dados NGS. Seus dados agora estão prontos para análises mais avançadas.
 
-### [➡️  Voltar para a Página Inicial](../README.md)
+### [➡️ Vá para o Desafio do Curso!](./04_Desafio.md)
