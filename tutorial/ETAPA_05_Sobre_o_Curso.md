@@ -22,7 +22,7 @@
 A bioinformática é um campo interdisciplinar que une **Biologia**, **Ciência da Computação** e **Estatística** para analisar e interpretar dados biológicos. Através dela, transformamos informações complexas como sequências de DNA, RNA e proteínas em conhecimento útil. As aplicações são vastas, indo desde a medicina e farmácia até a agricultura e a evolução.
 
 <p align="center">
-  <img src="../assets/cloud_words.png" alt="Nuvem de palavras sobre Bioinformática" width="500"/>
+  <img src="../assets/cloud_words.png" alt="Nuvem de palavras sobre Bioinformática" width="700"/>
 </p>
 
 
@@ -31,8 +31,14 @@ A bioinformática é um campo interdisciplinar que une **Biologia**, **Ciência 
 > * O Genoma (nosso DNA) é o **Sistema Operacional**.
 > * Um arquivo de DNA pode ser visto como um **arquivo de computador** contendo as instruções da vida.
 
+---
+
+### Quem é o Bioinformata?
+
+É um profissional em transição entre as 3 grandes àreas descritas acima, **Biologia**, **Ciência da Computação** e **Estatística** ressposável por analisar e interpretar dados biológicos e outras tarefas!
+
 <p align="center">
-  <img src="../assets/bioinfo_profile.png" alt="Perfis dos Bioinformatas" width="500"/>
+  <img src="../assets/bioinfo_profile.png" alt="Perfis dos Bioinformatas" width="700"/>
 </p>
 
 ---
@@ -42,7 +48,7 @@ A bioinformática é um campo interdisciplinar que une **Biologia**, **Ciência 
 A bioinformática trabalha com uma quantidade imensa de dados de sequenciamento, dados clínicos e outros metadados. Sendo assim, requer poderosas ferramentas para processar essa quantidade imensa, além de ferramentas simples como o terminal.
 
 <p align="center">
-  <img src="../assets/bigdata.png" alt="Pipeline de Bioinformática e Quantidade de Dados" width="500"/>
+  <img src="../assets/bigdata.png" alt="Pipeline de Bioinformática e Quantidade de Dados" width="700"/>
 </p>
 
 ---
@@ -61,7 +67,7 @@ O **Institut Pasteur**, um renomado centro de pesquisa francês, em parceria com
 Isso demonstra a necessidade de alta capacidade computacional para lidar com os desafios da bioinformática moderna.
 
 <p align="center">
-  <img src="../assets/aws.png" alt="AWS e Institut Pasteur" width="600"/>
+  <img src="../assets/aws.png" alt="AWS e Institut Pasteur" width="700"/>
 </p>
 
 ---
@@ -71,7 +77,7 @@ Isso demonstra a necessidade de alta capacidade computacional para lidar com os 
 O sequenciamento é o processo de "ler" a ordem das bases (A, C, G, T) em uma molécula de DNA.
 
 <p align="center">
-  <img src="../assets/dogma.png" alt="Dogma Central da Biologia Molecular" width="700"/>
+  <img src="../assets/dogma.png" alt="Dogma Central da Biologia Molecular" width="800"/>
 </p>
 
 
@@ -110,9 +116,15 @@ O **Phred Quality Score (Q score)** é uma medida logarítmica da probabilidade 
 
 Ferramentas como o **FastQC** geram relatórios em HTML que nos permitem visualizar a qualidade das nossas leituras.
 
+Na figura abaixo temos um relatório de boa qualidade de sequenciamento.
 <p align="center">
-  <img src="../assets/good.png" alt="Relatório do FastQC" width="600"/>
+  <img src="../assets/good.png" alt="Relatório do FastQC alta qualidade" width="800"/>
 </p>
+
+Contudo, nesta outra imagem o sequenciamento teve alguns problemas e a qualidade ficou abaixo do ideal.
+
+<p align="center">
+  <img src="../assets/bad.png" alt="Relatório do FastQC baixa qualidade" width="800">
 
 ---
 
