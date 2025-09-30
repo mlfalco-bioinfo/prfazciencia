@@ -21,16 +21,32 @@
 
 A bioinformática é um campo interdisciplinar que une **Biologia**, **Ciência da Computação** e **Estatística** para analisar e interpretar dados biológicos. Através dela, transformamos informações complexas como sequências de DNA, RNA e proteínas em conhecimento útil. As aplicações são vastas, indo desde a medicina e farmácia até a agricultura e a evolução.
 
+<p align="center">
+  <img src="../assets/cloud_words.png" alt="Nuvem de palavras sobre Bioinformática" width="500"/>
+</p>
+
+
 > #### Analogia Simples:
 > * Nosso corpo é o **Hardware**.
 > * O Genoma (nosso DNA) é o **Sistema Operacional**.
 > * Um arquivo de DNA pode ser visto como um **arquivo de computador** contendo as instruções da vida.
 
 <p align="center">
-  <img src="URL_PARA_IMAGEM_NUVEM_PALAVRAS_PAGINA_9" alt="Nuvem de palavras sobre Bioinformática" width="500"/>
+  <img src="../assets/bioinfo_profile.png" alt="Perfis dos Bioinformatas" width="500"/>
 </p>
 
 ---
+
+### Como o quê trabalhamos?
+
+A bioinformática trabalha com uma quantidade imensa de dados de sequenciamento, dados clínicos e outros metadados. Sendo assim, requer poderosas ferramentas para processar essa quantidade imensa, além de ferramentas simples como o terminal.
+
+<p align="center">
+  <img src="../assets/bigdata.png" alt="Pipeline de Bioinformática e Quantidade de Dados" width="500"/>
+</p>
+
+---
+
 
 ### Um Caso Curioso: O Poder da Nuvem na Análise de DNA
 
@@ -45,7 +61,7 @@ O **Institut Pasteur**, um renomado centro de pesquisa francês, em parceria com
 Isso demonstra a necessidade de alta capacidade computacional para lidar com os desafios da bioinformática moderna.
 
 <p align="center">
-  <img src="URL_PARA_IMAGEM_AWS_PASTEUR_PAGINA_13" alt="AWS e Institut Pasteur" width="600"/>
+  <img src="../assets/aws.png" alt="AWS e Institut Pasteur" width="600"/>
 </p>
 
 ---
@@ -54,6 +70,11 @@ Isso demonstra a necessidade de alta capacidade computacional para lidar com os 
 
 O sequenciamento é o processo de "ler" a ordem das bases (A, C, G, T) em uma molécula de DNA.
 
+<p align="center">
+  <img src="../assets/dogma.png" alt="Dogma Central da Biologia Molecular" width="700"/>
+</p>
+
+
 #### Dogma Central da Biologia Molecular
 É o princípio de como a informação genética flui:
 1.  **DNA (Armazenamento):** Contém as instruções.
@@ -61,8 +82,10 @@ O sequenciamento é o processo de "ler" a ordem das bases (A, C, G, T) em uma mo
 3.  **Tradução → Proteína (Aplicação):** As instruções são usadas para criar proteínas, que executam as funções vitais.
 
 <p align="center">
-  <img src="URL_PARA_IMAGEM_DOGMA_CENTRAL_PAGINA_15" alt="Dogma Central da Biologia Molecular" width="700"/>
+  <img src="../assets/bcl_fastq.png" alt="Formação do Arquivo Fastq no Sequenciador" width="700"/>
 </p>
+
+A imagem acima representa o complexo mecanismo de transformação dos dados de imagens do sequenciamento em dados digitais para serem analisados pela bioinformática.
 
 ---
 
@@ -78,7 +101,7 @@ Após o sequenciamento, os dados brutos são armazenados em formatos de arquivo 
     4.  **Linha 4:** Os **Phred Quality Scores** para cada base da linha 2.
 
 <p align="center">
-  <img src="URL_PARA_IMAGEM_FORMATO_FASTQ_PAGINA_39" alt="Análise do Formato de Arquivo FASTQ" width="700"/>
+  <img src="../assets/fastq.png" alt="Análise do Formato de Arquivo FASTQ" width="700"/>
 </p>
 
 #### Controle de Qualidade (QC)
@@ -88,7 +111,7 @@ O **Phred Quality Score (Q score)** é uma medida logarítmica da probabilidade 
 Ferramentas como o **FastQC** geram relatórios em HTML que nos permitem visualizar a qualidade das nossas leituras.
 
 <p align="center">
-  <img src="URL_PARA_IMAGEM_FASTQC_REPORT_PAGINA_41" alt="Relatório do FastQC" width="600"/>
+  <img src="../assets/good.png" alt="Relatório do FastQC" width="600"/>
 </p>
 
 ---
@@ -104,7 +127,7 @@ Um pipeline básico geralmente segue estes passos:
 4.  **Variant Calling → Variant Calls (VCF):** O alinhamento é analisado para identificar variantes.
 
 <p align="center">
-  <img src="URL_PARA_IMAGEM_PIPELINE_BASICO_PAGINA_34" alt="Pipeline Básico de Bioinformática" width="700"/>
+  <img src="../assets/pipeline.png" alt="Pipeline Básico de Bioinformática" width="700"/>
 </p>
 
 ---
