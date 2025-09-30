@@ -11,6 +11,7 @@ RUN apt-get update && apt-get install -y \
     curl \
     wget \
     unzip \
+    gunzip \
     build-essential \
     default-jre \
     zlib1g-dev \

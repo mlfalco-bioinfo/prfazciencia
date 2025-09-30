@@ -38,4 +38,10 @@ Volta para o diretório raiz
 cd ..
 ```
 
+#### 3. Baixar os dados do Sequenciamento
 
+# Baixa os reads no formato FASTQ, já separados em arquivos pareados
+# A opção -p mostra o progresso do download
+```bash
+fasterq-dump --split-files --outdir data -p SRR28199596	
+```
