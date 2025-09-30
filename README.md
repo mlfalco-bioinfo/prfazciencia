@@ -3,9 +3,9 @@
 </p>
 
 <h1 align="center">Introdução à Bioinformática</h1>
-Bem-vindo ao nosso minicurso! 
-O objetivo é fornecer uma introdução prática à análise de dados de Sequenciamento de Nova Geração (NGS). 
-O curso foi desenhado para iniciantes e começa com uma base sólida sobre o uso do terminal Linux antes de mergulhar na bioinformática.
+<br>Bem-vindo ao nosso minicurso!</br> 
+<br>O objetivo é fornecer uma introdução prática à análise de dados de Sequenciamento de Nova Geração (NGS).</br> 
+<br>O curso foi desenhado para iniciantes e começa com uma base sólida sobre o uso do terminal Linux antes de mergulhar na bioinformática.</br>
 
 ## Como Começar
 
@@ -13,8 +13,8 @@ O curso foi desenhado para iniciantes e começa com uma base sólida sobre o uso
 2.  Vá para a aba **"Codespaces"**.
 3.  Clique em **"Create codespace on main"**.
 
-Aguarde alguns minutos enquanto o GitHub Codespace prepara seu ambiente. 
-Ele fornecerá um sistema Linux Ubuntu limpo, pronto para você aprender a configurar e usar.
+<br>Aguarde alguns minutos enquanto o GitHub Codespace prepara seu ambiente.</br>
+<br>Ele fornecerá um sistema Linux Ubuntu limpo, pronto para você aprender a configurar e usar.</br>
 
 Podemos também usar o botão abaixo que abrirá nosso Github Codespace:
 
@@ -31,4 +31,4 @@ O curso é dividido em módulos sequenciais. **Se você é novo no Linux, comece
 * [**Aula 3: Obtendo os Dados Brutos e o Genoma de Referência**](./tutorial/03_Obtendo_os_Dados.md)
 * [**Aula 4: Controle de Qualidade Inicial com FastQC**](./tutorial/04_Controle_de_Qualidade_Inicial.md)
 * [**Aula 5: Limpeza e Filtragem dos Reads com Trimmomatic**](./tutorial/05_Limpeza_e_Filtragem_dos_Reads.md)
-* [**Aula 6: Alinhamento com o Genoma usando BWA-MEM2**](./tutorial/06_Alinhamento_com_o_Genoma.md)
+<!--* [**Aula 6: Alinhamento com o Genoma usando BWA-MEM2**](./tutorial/06_Alinhamento_com_o_Genoma.md)-->
