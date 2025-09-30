@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="Logotipo Paraná Faz Ciência" width="200"/>
+  <img src="assets/logo.jpg" alt="Logotipo Paraná Faz Ciência" width="800"/>
 </p>
 
 # Introdução à Bioinformática
