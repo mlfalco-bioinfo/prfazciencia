@@ -25,7 +25,7 @@ RUN wget http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/Trimmoma
 
 # 3. Copia os dados do curso para dentro da imagem
 # A pasta 'course_data' do seu repositório será copiada para '/home/vscode/data'
-COPY course_data/ /home/vscode/data/
+COPY data/ /home/vscode/data/
 
 # 4. Configura o usuário padrão do Codespace ('vscode')
 RUN useradd -m -s /bin/bash vscode && \
