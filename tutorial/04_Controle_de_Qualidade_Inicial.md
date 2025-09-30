@@ -1,4 +1,4 @@
-# Aula 3: Controle de Qualidade (QC) com FastQC
+# Etapa 4: Controle de Qualidade (QC) com FastQC
 
 É crucial verificar a qualidade dos dados brutos antes de qualquer análise.
 

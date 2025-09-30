@@ -1,4 +1,4 @@
-# Aula 4: Limpeza e Filtragem com Trimmomatic
+# Etapa 5: Limpeza e Filtragem com Trimmomatic
 
 Com base nos relatórios do FastQC, vamos limpar os reads de baixa qualidade e remover adaptadores usando o Trimmomatic.
 

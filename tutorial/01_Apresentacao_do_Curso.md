@@ -1,4 +1,4 @@
-# Aula 1: Apresentação do Curso de Bioinformática
+# Etapa 1: Apresentação do Curso de Bioinformática
 
 Olá!
 Agora que você já tem uma base sobre como usar o terminal Linux, vamos ao nosso objetivo principal: aprender a analisar dados de sequenciamento de nova geração (NGS).

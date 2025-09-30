@@ -1,4 +1,4 @@
-# Aula 2: Instalação das Ferramentas no Sistema
+# Etapa 2: Instalação das Ferramentas no Sistema
 
 Nesta aula, vamos instalar nosso kit de ferramentas. 
 Usaremos três métodos diferentes, que são comuns no dia a dia de um bioinformata.
