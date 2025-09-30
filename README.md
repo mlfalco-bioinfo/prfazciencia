@@ -4,24 +4,24 @@
 
 <h1 align="center">Introdução à Bioinformática</h1>
 <br>Bem-vindo ao nosso minicurso!</br> 
-<br>O objetivo é fornecer uma introdução prática à análise de dados de Sequenciamento de Nova Geração (NGS).</br> 
-<br>O curso foi desenhado para iniciantes e começa com uma base sólida sobre o uso do terminal Linux antes de mergulhar na bioinformática.</br>
+O objetivo é fornecer uma introdução prática à análise de dados de Sequenciamento de Nova Geração (NGS).
+O curso foi desenhado para iniciantes e começa com uma base sólida sobre o uso do terminal Linux antes de mergulhar na bioinformática.
 
-## Como Começar
+<h2 align="center">Como Começar</h2>
 
 1.  Clique no botão verde **"<> Code"** no topo desta página.
 2.  Vá para a aba **"Codespaces"**.
 3.  Clique em **"Create codespace on main"**.
 
-<br>Aguarde alguns minutos enquanto o GitHub Codespace prepara seu ambiente.</br>
-<br>Ele fornecerá um sistema Linux Ubuntu limpo, pronto para você aprender a configurar e usar.</br>
+Aguarde alguns minutos enquanto o GitHub Codespace prepara seu ambiente.
+Ele fornecerá um sistema Linux Ubuntu limpo, pronto para você aprender a configurar e usar.
 
 Podemos também usar o botão abaixo que abrirá nosso Github Codespace:
 
 [![Abrir no GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/mlfalco-bioinfo/prfazciencia)
 
 
-## Conteúdo do Curso
+<h2 align="center">Conteúdo do Curso</h2>
 
 O curso é dividido em módulos sequenciais. **Se você é novo no Linux, comece pela Aula 0**
 
